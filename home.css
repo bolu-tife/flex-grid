@@ -1,0 +1,18 @@
+nav{
+    margin: 80px;
+    padding: 30px;
+    height: 10%;
+}
+
+a{
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Lexend Deca',sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align:center;
+    background-color: hsl(0, 0%, 95%);
+
+}
